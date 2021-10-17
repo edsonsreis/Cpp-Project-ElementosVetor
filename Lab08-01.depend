@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492881400 source:/home/ltsp-cluster-accountmanager/MTAuNi44LjIzMA/Área de Trabalho/Lab08-01/biblioteca.cpp
+	<iostream>
+	"biblioteca.h"
+
+1492881400 /home/ltsp-cluster-accountmanager/MTAuNi44LjIzMA/Área de Trabalho/Lab08-01/biblioteca.h
+
+1492880966 source:/home/ltsp-cluster-accountmanager/MTAuNi44LjIzMA/Área de Trabalho/Lab08-01/main.cpp
+	<iostream>
+	"biblioteca.h"
+
